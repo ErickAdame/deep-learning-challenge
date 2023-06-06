@@ -1,1 +1,3 @@
 # deep-learning-challenge
+
+In this challenge there intent was to create a model that would perform deep learning and achieve an accuracy of more than 75 percent. This could be accomplished by determining which columns are important, scaling and filtering the data and then choosing correct epochs, nodes, and other model optimizations. After several attempts I was only able to achieve a max of 74% accuracy before I reached my RAM max on Google Collab. More fine-tuning could be done in the future to achieve more than 75% accuracy. 
